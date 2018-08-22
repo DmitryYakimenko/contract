@@ -1,6 +1,6 @@
 <?php
 require 'contract.class.php';
-require 'router.php';
+
 
 
 
